@@ -2,6 +2,9 @@
 
 A program that renders a Mandelbrot set that you can explore. 
 
+![screenshot of Mandelbrot set being
+rendered](https://github.com/HarryRudolph/mandelbrot/blob/main/screenshot.png)
+
 ## Controls
 - wasd: pan around Mandelbrot.
 - up/down arrows: zoom in and out
