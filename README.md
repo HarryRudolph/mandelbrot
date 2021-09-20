@@ -1,13 +1,13 @@
-#Mandelbrot C
+# Mandelbrot C
 
 A program that renders a Mandelbrot set that you can explore. 
 
-##Controls
+## Controls
 wasd - pan around Mandelbrot.
 up/down - zoom in and out
 left/right - adjust number of iterations. 
 
-##Usage
+## Usage
 Use make to compile the application including SDL library.
 ```
 make
@@ -19,8 +19,8 @@ Run the executable.
 
 ```
 
-##Libraries
--SDL
+## Libraries
+-[SDL2](https://www.libsdl.org/) 
 
 ## TODO
 - Infinite Zoom
