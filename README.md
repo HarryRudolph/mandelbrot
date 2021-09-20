@@ -3,9 +3,9 @@
 A program that renders a Mandelbrot set that you can explore. 
 
 ## Controls
-wasd - pan around Mandelbrot.
-up/down - zoom in and out
-left/right - adjust number of iterations. 
+- wasd: pan around Mandelbrot.
+- up/down arrows: zoom in and out
+- left/right arrows: adjust number of iterations in formula. 
 
 ## Usage
 Use make to compile the application including SDL library.
